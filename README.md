@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as a Data Analyst / Engineer, trying to become a Data Scientist / AI Engineer
 - ✍ Studying a Master's in AI at SMU -- check out my [Lessons Learned!](https://github.com/1darren/lessons_from_AI_masters/tree/main)
 - 💬 Talk to me about improv, jokes, exceptions and taboos; information gain and learning; AI/ML projects.
+
 -------
 
 ### 📊 **Currently Reading:**
