@@ -1,8 +1,11 @@
-### Hi there 👋
-I'm Darren; but I'm also:
+### 👋 Hi, I'm Darren 👋
+
 💻 Developer (Data Analyst/Data Engineer) trying to break into Data Science / AI.
+
 ✍ Ex-marketer/journalist/writer, trying to pen and understand my own thoughts and self.
+
 🧠 Thinking deeply about abstractions, algorithms, corner cases and exceptions.
+
 🔎 For the algorithm: PyTorch, Databricks, NLTK, LightGBM / XGBoost, Data Viz (Seaborn, Matplotlib), Tensorflow, Keras.
 
 <!--
