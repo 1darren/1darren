@@ -16,15 +16,7 @@ An engineer
 - **The Daily Laws:** Reading meditations on Power, Mastery, and Human Nature to learn to become my best self.
 
 -------
-<!--
-**📝 Latest Blog Posts**
 
-<p align="center">
-  <a href="[https://blog.athulcyriac.in](https://1df.co/)">Personal Blog</a> •
-  <a href="https://twitter.com/athulcajay">Linkedin</a>
-</p>
--------
--->
 ### 🌴 Tech Stack / Skill Tree:
 
 
