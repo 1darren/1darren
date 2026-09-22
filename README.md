@@ -1,3 +1,5 @@
+An engineer
+<!--
 <h2 align="center">👋 Hi, I'm Darren </h2>
 
 
@@ -48,3 +50,5 @@ Documentation:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <sub>🔎 For the algorithm: PyTorch, Databricks, NLTK, LightGBM / XGBoost, Data Viz (Seaborn, Matplotlib), Tensorflow, Keras.</sub>
+
+-->
